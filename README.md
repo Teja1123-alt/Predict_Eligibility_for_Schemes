@@ -129,7 +129,7 @@ Fraud Detection: Add anomaly detection features
 Multilingual Input, Expansion to Other Schemes, Periodic Updates
 
 GITHUB LINK & REFERENCES
-GitHub Link: (Not provided in the file)
+GitHub Link: https://github.com/Teja1123-alt/Predict_Eligibility_for_Schemes
 
 IBM Cloud Lite:
 🔗 https://cloud.ibm.com
